@@ -1,0 +1,39 @@
+Exercise 2.9
+True/False
+	1.False
+	2.True
+	3.False
+	4.True
+	5.True
+	6.True
+	7.True
+	8.False
+	9.True
+	10.False
+Multiple choice
+	1.c
+	2.a
+	3.d
+	4.c
+	5.b
+	6.b
+	7.b
+	8.d
+	9.b
+	10.d
+Discussion
+1.The six steps in software development process;
+	.Specification-This helps us to specify what we want our software to do.
+	.Design-We bascially create a blueprint of how we want our software to work and perform.
+	.Implementation-We write the code we need to build the software.
+	.Testing-We perform necesaary debugging and testing to ensure that our software is working the way we want it to be.
+	.Documentation-We formulate neccessary procedures and instructions to guide users on how to use the software.
+	.Maintenance-We continously update and maintain our software after deployment.
+3. Relationships among loops;
+	Definite loop-This runs a specified number of times.
+	For loop-This is used to iterate over a sequence or range.
+	Counted loop-This is often implemented with a for loop. It basically repeats itself a specific number of times.
+5.Importance of writing an algorithm in pseudocode first;
+	.Allows we users to plan easily and solve  problems without worrying on the syntax used.
+	.It helps us to ensure clarity within our code.
+	.Aloows us to effectively and easily debug especially when translating it to code.
